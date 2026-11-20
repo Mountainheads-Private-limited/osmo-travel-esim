@@ -3,7 +3,7 @@
   "name": "app.getosmo.esim/travel-esim",
   "title": "OsmO Travel eSIM",
   "description": "Compare travel eSIM data plans for any trip, check phone eSIM support, estimate data, set up.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://esim.getosmo.app",
   "icons": [
     {
@@ -16,5 +16,9 @@
       "type": "streamable-http",
       "url": "https://esim.getosmo.app/mcp"
     }
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/Mountainheads-Private-limited/osmo-travel-esim",
+    "source": "github"
+  }
 }
