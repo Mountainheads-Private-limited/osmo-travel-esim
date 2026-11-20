@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "osmo-travel-esim": {
+      "url": "https://esim.getosmo.app/mcp"
+    }
+  }
+}

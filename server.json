@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.getosmo.esim/travel-esim",
+  "title": "OsmO Travel eSIM",
+  "description": "Compare travel eSIM data plans for any trip, check phone eSIM support, estimate data, set up.",
+  "version": "1.0.0",
+  "websiteUrl": "https://esim.getosmo.app",
+  "icons": [
+    {
+      "src": "https://esim.getosmo.app/img/osmo-icon.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://esim.getosmo.app/mcp"
+    }
+  ]
+}

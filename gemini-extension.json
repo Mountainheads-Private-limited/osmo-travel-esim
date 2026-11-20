@@ -1,0 +1,11 @@
+{
+  "name": "osmo-travel-esim",
+  "version": "1.0.0",
+  "description": "Compare travel eSIM data plans for any trip, including multi-country trips; check whether your phone supports eSIM; estimate how much data you need; compare your carrier's roaming pass with an eSIM; and get install and troubleshooting steps. Free, no sign-in, read-only.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "osmo-travel-esim": {
+      "httpUrl": "https://esim.getosmo.app/mcp"
+    }
+  }
+}

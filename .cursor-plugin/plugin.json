@@ -1,0 +1,31 @@
+{
+  "name": "osmo-travel-esim",
+  "displayName": "OsmO Travel eSIM",
+  "version": "1.0.0",
+  "description": "Compare travel eSIM data plans for any trip, including multi-country trips; check whether your phone supports eSIM; estimate how much data you need; compare your carrier's roaming pass with an eSIM; and get install and troubleshooting steps. Free, no sign-in, read-only.",
+  "author": {
+    "name": "OsmO AI",
+    "email": "team@getosmo.app",
+    "url": "https://esim.getosmo.app"
+  },
+  "homepage": "https://esim.getosmo.app",
+  "repository": "https://github.com/Mountainheads-Private-limited/osmo-travel-esim",
+  "license": "MIT",
+  "keywords": [
+    "esim",
+    "travel-esim",
+    "travel",
+    "roaming",
+    "international-data",
+    "data-plan",
+    "travel-sim",
+    "esim-compatibility",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": {
+    "osmo-travel-esim": {
+      "url": "https://esim.getosmo.app/mcp"
+    }
+  }
+}
