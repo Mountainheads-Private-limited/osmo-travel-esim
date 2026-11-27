@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://registry.modelcontextprotocol.io/v0.1/servers/app.getosmo.esim%2Ftravel-esim/versions/latest"><img alt="MCP Registry: app.getosmo.esim/travel-esim" src="https://img.shields.io/badge/MCP_Registry-app.getosmo.esim%2Ftravel--esim-blue"></a>
+  <a href="https://glama.ai/mcp/connectors/app.getosmo.esim/travel-esim"><img alt="OsmO Travel eSIM on Glama" src="https://glama.ai/mcp/connectors/app.getosmo.esim/travel-esim/badges/score.svg"></a>
   <a href="https://esim.getosmo.app"><img alt="Website" src="https://img.shields.io/badge/web-esim.getosmo.app-7C5E22"></a>
   <a href="LICENSE"><img alt="License: MIT (client files)" src="https://img.shields.io/badge/license-MIT-green"></a>
 </p>
